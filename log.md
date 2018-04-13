@@ -12,3 +12,9 @@
   Phase 4: Add H2G2-themed weirdness...strictly for fun
  
  ### Day2: 4/12/18
+ **Today's Progress**: Added features to guide project
+ 
+    1. Used textwrap to format text output of program (i.e. wiki summary)
+    
+    2. Added gTTs to read wiki summary to user
+      NOTE: need to add way to close and clear mp3 output program after reading
